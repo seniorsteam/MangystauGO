@@ -1,1 +1,1 @@
-# MangystauGO
+# TravelMangystauSimpleWebsite
